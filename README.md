@@ -1,1 +1,1 @@
-## Projetos na área de inteligência artificial(Machine Learning, visão computacional, NLP).
+## Projetos na área de inteligência artificial(Machine Learning,Deep Learning, visão computacional, NLP).
